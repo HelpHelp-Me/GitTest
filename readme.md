@@ -28,13 +28,6 @@
 
 ## git reflog
 1. 查看简单操作日志
-## 引入代码
-```js
-var abc = 123;
-function show(){
-    alert('hello')
-}
-```
----
-## 引用
-> hello
+
+## git diff 文件名
+1. 查看文件变更信息
